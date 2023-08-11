@@ -1,0 +1,16 @@
+{
+  "name": "express_backend",
+  "version": "1.0.0",
+  "description": "route handling",
+  "main": "index.js",
+  "author": "nanayawkm",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  
+  }
+ 
+}
